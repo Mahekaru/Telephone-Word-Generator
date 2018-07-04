@@ -1,0 +1,30 @@
+C:\Users\Mahekaru\Downloads\VB Stuff\Telephone Word Generator\ex07_15\TelephoneNumberWordGenerator\TelephoneNumberWordGenerator\bin\Debug\TelephoneNumberWordGenerator.exe
+C:\Users\Mahekaru\Downloads\VB Stuff\Telephone Word Generator\ex07_15\TelephoneNumberWordGenerator\TelephoneNumberWordGenerator\bin\Debug\TelephoneNumberWordGenerator.pdb
+C:\Users\Mahekaru\Downloads\VB Stuff\Telephone Word Generator\ex07_15\TelephoneNumberWordGenerator\TelephoneNumberWordGenerator\bin\Debug\TelephoneNumberWordGenerator.xml
+C:\Users\Mahekaru\Downloads\VB Stuff\Telephone Word Generator\ex07_15\TelephoneNumberWordGenerator\TelephoneNumberWordGenerator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mahekaru\Downloads\VB Stuff\Telephone Word Generator\ex07_15\TelephoneNumberWordGenerator\TelephoneNumberWordGenerator\obj\x86\Debug\TelephoneNumberWordGenerator.Resources.resources
+C:\Users\Mahekaru\Downloads\VB Stuff\Telephone Word Generator\ex07_15\TelephoneNumberWordGenerator\TelephoneNumberWordGenerator\obj\x86\Debug\TelephoneNumberWordGenerator.TelephoneNumberWordGenerator.resources
+C:\Users\Mahekaru\Downloads\VB Stuff\Telephone Word Generator\ex07_15\TelephoneNumberWordGenerator\TelephoneNumberWordGenerator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mahekaru\Downloads\VB Stuff\Telephone Word Generator\ex07_15\TelephoneNumberWordGenerator\TelephoneNumberWordGenerator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mahekaru\Downloads\VB Stuff\Telephone Word Generator\ex07_15\TelephoneNumberWordGenerator\TelephoneNumberWordGenerator\obj\x86\Debug\TelephoneNumberWordGenerator.exe
+C:\Users\Mahekaru\Downloads\VB Stuff\Telephone Word Generator\ex07_15\TelephoneNumberWordGenerator\TelephoneNumberWordGenerator\obj\x86\Debug\TelephoneNumberWordGenerator.xml
+C:\Users\Mahekaru\Downloads\VB Stuff\Telephone Word Generator\ex07_15\TelephoneNumberWordGenerator\TelephoneNumberWordGenerator\obj\x86\Debug\TelephoneNumberWordGenerator.pdb
+G:\Backup\Program Files\Software\VB Stuff\Telephone Word Generator\ex07_15\TelephoneNumberWordGenerator\TelephoneNumberWordGenerator\obj\x86\Debug\TelephoneNumberWordGenerator.exe
+G:\Backup\Program Files\Software\VB Stuff\Telephone Word Generator\ex07_15\TelephoneNumberWordGenerator\TelephoneNumberWordGenerator\obj\x86\Debug\TelephoneNumberWordGenerator.xml
+G:\Backup\Program Files\Software\VB Stuff\Telephone Word Generator\ex07_15\TelephoneNumberWordGenerator\TelephoneNumberWordGenerator\obj\x86\Debug\TelephoneNumberWordGenerator.pdb
+G:\Backup\Program Files\Software\VB Stuff\Telephone Word Generator\ex07_15\TelephoneNumberWordGenerator\TelephoneNumberWordGenerator\bin\Debug\TelephoneNumberWordGenerator.exe
+G:\Backup\Program Files\Software\VB Stuff\Telephone Word Generator\ex07_15\TelephoneNumberWordGenerator\TelephoneNumberWordGenerator\bin\Debug\TelephoneNumberWordGenerator.pdb
+G:\Backup\Program Files\Software\VB Stuff\Telephone Word Generator\ex07_15\TelephoneNumberWordGenerator\TelephoneNumberWordGenerator\bin\Debug\TelephoneNumberWordGenerator.xml
+G:\Backup\Program Files\Software\VB Stuff\Telephone Word Generator\ex07_15\TelephoneNumberWordGenerator\TelephoneNumberWordGenerator\obj\x86\Debug\TelephoneNumberWordGenerator.Resources.resources
+G:\Backup\Program Files\Software\VB Stuff\Telephone Word Generator\ex07_15\TelephoneNumberWordGenerator\TelephoneNumberWordGenerator\obj\x86\Debug\TelephoneNumberWordGenerator.TelephoneNumberWordGenerator.resources
+G:\Backup\Program Files\Software\VB Stuff\Telephone Word Generator\ex07_15\TelephoneNumberWordGenerator\TelephoneNumberWordGenerator\obj\x86\Debug\TelephoneNumberWordGenerator.vbproj.GenerateResource.Cache
+E:\Backup\Program Files\Software\VB Stuff\Telephone Word Generator\ex07_15\TelephoneNumberWordGenerator\TelephoneNumberWordGenerator\obj\x86\Debug\TelephoneNumberWordGenerator.exe
+E:\Backup\Program Files\Software\VB Stuff\Telephone Word Generator\ex07_15\TelephoneNumberWordGenerator\TelephoneNumberWordGenerator\obj\x86\Debug\TelephoneNumberWordGenerator.xml
+E:\Backup\Program Files\Software\VB Stuff\Telephone Word Generator\ex07_15\TelephoneNumberWordGenerator\TelephoneNumberWordGenerator\obj\x86\Debug\TelephoneNumberWordGenerator.pdb
+E:\Backup\Program Files\Software\VB Stuff\Telephone Word Generator\ex07_15\TelephoneNumberWordGenerator\TelephoneNumberWordGenerator\bin\Debug\TelephoneNumberWordGenerator.exe
+E:\Backup\Program Files\Software\VB Stuff\Telephone Word Generator\ex07_15\TelephoneNumberWordGenerator\TelephoneNumberWordGenerator\bin\Debug\TelephoneNumberWordGenerator.pdb
+E:\Backup\Program Files\Software\VB Stuff\Telephone Word Generator\ex07_15\TelephoneNumberWordGenerator\TelephoneNumberWordGenerator\bin\Debug\TelephoneNumberWordGenerator.xml
+E:\Backup\Program Files\Software\VB Stuff\Telephone Word Generator\ex07_15\TelephoneNumberWordGenerator\TelephoneNumberWordGenerator\obj\x86\Debug\TelephoneNumberWordGenerator.vbprojResolveAssemblyReference.cache
+E:\Backup\Program Files\Software\VB Stuff\Telephone Word Generator\ex07_15\TelephoneNumberWordGenerator\TelephoneNumberWordGenerator\obj\x86\Debug\TelephoneNumberWordGenerator.Resources.resources
+E:\Backup\Program Files\Software\VB Stuff\Telephone Word Generator\ex07_15\TelephoneNumberWordGenerator\TelephoneNumberWordGenerator\obj\x86\Debug\TelephoneNumberWordGenerator.TelephoneNumberWordGenerator.resources
+E:\Backup\Program Files\Software\VB Stuff\Telephone Word Generator\ex07_15\TelephoneNumberWordGenerator\TelephoneNumberWordGenerator\obj\x86\Debug\TelephoneNumberWordGenerator.vbproj.GenerateResource.Cache
